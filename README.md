@@ -7,7 +7,7 @@
 - 🎓 Studying Software Development, currently in my fourth year
 - 🌱 Currently improving my skills in **.NET Core**
 - 📘 Planning to learn **React** soon
-- 💼 Actively seeking internship opportunities for 2023
+- 💼 Actively seeking internship opportunities for 2023/2024
 
 ### My Tech Stack
 - 💻 Languages: C#, HTML, CSS, JavaScript
@@ -21,9 +21,9 @@
 - 📚 Always eager to learn and work on innovative projects
 
 ### Let's Connect!
-- 📫 You can reach me at: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle)
+
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nalitha-maphini-28244625a)
+
 
 <p align="center">
   <em>Let's turn coffee into code!</em>
