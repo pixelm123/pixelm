@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julita</h1>
-<h3 align="center">I am a fourth-year student of computer science, and I aspire to develop myself as a backend developer.</h3>
+<h1 align="center">Hi 👋, I'm Nalitha</h1>
+<h3 align="center">I am a fourth-year software development student , and I aspire to develop myself as a software developer.</h3>
 
 
 
