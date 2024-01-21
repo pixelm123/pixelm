@@ -1,7 +1,8 @@
 
 #  Full Stack Developer
 
-<h3 align="center">A passionate Full-Stack Software developer from South Africa </h3>
+<h3 align="center"> Full-Stack Software developer from South Africa </h3>
+<h4 align="center" > Hi, i'm  a passionate full stack web developer and a freelance software developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. </h4>
 
 ![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](https://user-images.githubusercontent.com/8805744/183447964-0216585b-499c-4bbf-a565-b04339b4b53c.gif)
 
