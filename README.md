@@ -6,16 +6,6 @@
   Hi, I'm a passionate full stack web developer and a freelance software engineer from South Africa. My enthusiasm for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </div>
 
-<br/>
-
-**Current Focus:**
-
-- 🌱 I’m currently learning **Typescript, Angular, and Vue**
-- 👨‍💻 All of my projects are available at [https://pixelm123.github.io/Portfolio/](https://pixelm123.github.io/Portfolio/)
-- 💬 Ask me about **C#, Python, React, JavaScript, SASS, CSS3, and HTML5**
-- 💼 Any freelance work? Feel free to reach out via [email](mailto:lilithamaphini@gmail.com) :)
-- 💬 Ask me about anything; I am happy to help;
-
 ## Languages and Tools
 
 <table align="center">
