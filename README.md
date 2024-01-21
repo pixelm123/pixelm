@@ -3,11 +3,10 @@ Hi, i'm  a passionate self-taught full stack web developer and a freelance softw
 Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find immense joy in bringing ideas to life through programming.
 
 
-  <img align="right" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:lilithamaphini@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
 
 **languages and tools:**  
 
