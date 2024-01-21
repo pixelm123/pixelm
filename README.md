@@ -1,33 +1,30 @@
-#  Full Stack Developer
+# Full Stack Developer
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="400" height="200" />
+<div align="center">
+  <img align="left" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="400" height="256" />
 
   Hi, I'm a passionate full stack web developer and a freelance software engineer from South Africa. My enthusiasm for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </div>
 
 <br/>
 
+<p align="left">
+  <strong>Current Focus:</strong>
+</p>
 
-
-
-
-
-
-**Current Focus:**
-
-- 🌱 I’m currently learning **Typescript, Angular, and Vue**
-  
-- 👨‍💻 All of my projects are available at [https://pixelm123.github.io/Portfolio/](https://pixelm123.github.io/Portfolio/)
-  
-- 💬 Ask me about **C#, Python, React, JavaScript, SASS, CSS3, and HTML5**
-  
-- 💼 Any freelance work? Feel free to reach out via [email](mailto:lilithamaphini@gmail.com) :)
-  
-- 💬 Ask me about anything; I am happy to help;
+<p align="left">
+  - 🌱 I’m currently learning **Typescript, Angular, and Vue**
+  <br/>
+  - 👨‍💻 All of my projects are available at [https://pixelm123.github.io/Portfolio/](https://pixelm123.github.io/Portfolio/)
+  <br/>
+  - 💬 Ask me about **C#, Python, React, JavaScript, SASS, CSS3, and HTML5**
+  <br/>
+  - 💼 Any freelance work? Feel free to reach out via [email](mailto:lilithamaphini@gmail.com) :)
+  <br/>
+  - 💬 Ask me about anything; I am happy to help;
+</p>
 
 <br/>
-
 ## Languages and Tools
 
 <table align="center">
