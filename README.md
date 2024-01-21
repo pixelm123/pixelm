@@ -1,7 +1,7 @@
 
 <h3 align="center">A passionate Software developer from South Africa</h3>
 
-![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](C:\Users\nakedpenguin\Downloads\images.png)
+
 
 
 
