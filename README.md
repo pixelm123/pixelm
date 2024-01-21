@@ -77,9 +77,10 @@
       <br>Nodejs
     </td>
     
-    <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="65" height="65" />
       <br>SASS
+    </td>
   </tr>
 </table>
 <br><br>
