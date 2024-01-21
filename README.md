@@ -1,4 +1,4 @@
-Hi, i'm  a passionate self-taught full stack web developer and a freelance software engineer from South Africa. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm  a passionate full stack web developer and a freelance software engineer from South Africa. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find immense joy in bringing ideas to life through programming.
 
