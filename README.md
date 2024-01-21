@@ -76,6 +76,13 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="65" height="65" />
+      <br>SASS
   </tr>
 </table>
 <br><br>
