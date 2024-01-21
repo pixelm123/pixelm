@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Lilith Amaphini | Full Stack Developer
 
 <div>
   <img align="left" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="400" height="256" />
