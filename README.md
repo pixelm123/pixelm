@@ -1,7 +1,7 @@
 #  Full Stack Developer
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="400" height="256" />
+  <img align="right" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="400" height="200" />
 
   Hi, I'm a passionate full stack web developer and a freelance software engineer from South Africa. My enthusiasm for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </div>
