@@ -1,13 +1,6 @@
 
 #  Full Stack Developer
 
-<div align="center">
-  <img align="left" alt="GIF" src="https://github.com/pixelm123/pixelm123/blob/main/giphy.gif?raw=true" width="600" height="256" />
-
-  
-</div>
-
-<br/>
 
 **Current Focus:**
 
