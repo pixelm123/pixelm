@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Typescript, Angular, and Vue**
  
-- 👨‍💻 All of my projects are available at [https://pixelm123.github.io/Portfolio/](https://pixelm123.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nalitha-portfolio.netlify.app/](https://nalitha-portfolio.netlify.app/)
   
 - 💬 Ask me about **C#, Python, React, JavaScript, SASS, CSS3, and HTML5**
   
