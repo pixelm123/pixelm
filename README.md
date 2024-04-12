@@ -1,17 +1,16 @@
 
-#  Full Stack Developer
+#  Software Developer
 
-<h3 align="center"> Full-Stack Software developer from South Africa </h3>
-<h4 align="center" > Hi, I'm  a passionate full stack software developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. </h4>
+<h3 align="center">  Software developer  </h3>
+<h4 align="center" > Hi, I'm  a passionate software developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. </h4>
 
 
 **Current Focus:**
 
 - 🌱 I’m currently learning **Typescript, Angular, and Vue**
  
-- 👨‍💻 All of my projects are available at [https://nalitha-portfolio.netlify.app/](https://nalitha-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://nalitha-portfolio.netlify.app/)
   
-- 💬 Ask me about **C#, Python, React, JavaScript, SASS, CSS3, and HTML5**
   
 - 💼 Any freelance work? Feel free to reach out via [email](mailto:lilithamaphini@gmail.com) :)
 
